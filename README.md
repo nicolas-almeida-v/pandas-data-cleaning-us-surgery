@@ -7,7 +7,9 @@ I practiced core data manipulation techniques with Python and Pandas in Google C
 ---
 
 ## Dataset
-**US Surgery Dataset** — publicly available on [Kaggle](https://www.kaggle.com/)
+**Raw:** [`surgery.csv`](surgery.csv) — original dataset from [Kaggle](https://www.kaggle.com/)
+
+**Cleaned:** [`surgery_cleaned.csv`](cleaned_surgery.csv) — output after data cleaning
 
 ---
 
